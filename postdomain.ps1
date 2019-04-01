@@ -13,3 +13,5 @@ Get-Service adws,kdc,netlogon,dns
 Get-smbshare
 
 Write-Host -ForegroundColor yellow "Check for errors."
+
+#Not sure what was supposed be changed in this file.
